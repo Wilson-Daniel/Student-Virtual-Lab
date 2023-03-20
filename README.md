@@ -34,7 +34,6 @@ To use the app, open it on your Android device and follow these steps:
 
 * At the current time rendering we were dealing with 12,432 file combines to a 6.4 GB project at unity platform.
 * Version incompatibility.
-* 
 
 ## Installation
 

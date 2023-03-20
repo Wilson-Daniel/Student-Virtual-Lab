@@ -1,9 +1,5 @@
 <img src="https://user-images.githubusercontent.com/77532147/226459252-d017d896-23c3-4618-8908-924d0a23b654.png">
 
-## STUDENT VIRTUAL LEARNING LAB
-
-An AI powered Virtual Reality Lab android application for providing learning for schools and College students.
-
 
 ## Features
 
@@ -36,6 +32,13 @@ To use the app, open it on your Android device and follow these steps:
 
 * At the current time rendering we were dealing with 12,432 file combines to a 6.4 GB project at unity platform.
 * Version incompatibility.
+
+## Technology used
+
+* Unity
+* Blender
+* Artificial Intelligence. ( Unity AI libraries - `Ai.Inworld.Studio.V1Alpha`, `Ai.Inworld.Voices` )
+* Virtual Reality
 
 ## Installation
 

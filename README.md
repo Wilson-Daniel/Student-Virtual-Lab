@@ -30,6 +30,12 @@ To use the app, open it on your Android device and follow these steps:
 * Get correct suggetions at any level whereever you stuck.
 * Completing any level, generates a progress report of how acurately you performed your practical.
 
+## Challenges
+
+* At the current time rendering we were dealing with 12,432 file combines to a 6.4 GB project at unity platform.
+* Version incompatibility.
+* 
+
 ## Installation
 
 * Clone the repository from Github:

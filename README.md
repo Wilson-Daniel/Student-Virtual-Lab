@@ -38,24 +38,16 @@ To use the app, open it on your Android device and follow these steps:
   git clone https://https://github.com/Wilson-Daniel/Student-Virtual-Lab
 ```
 
-
 * Modify the code and resources as needed.
 
 - Build and run the app using an Android emulator or a physical device.
 
 - Test the app thoroughly and fix any bugs or issues.
 
+
 ## Contribution
 
-This app was created by `Updesh Pratap Singh`,`Alok Kushwaha` & `Wilson Daniel` for a IT DAY Hackathon.
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-`Commit and push your changes to the repository`.
+This app was created by `Updesh Pratap Singh`,`Alok Kushwaha` & `Wilson Daniel` for IT DAY Hackathon.
 
 
 ## License

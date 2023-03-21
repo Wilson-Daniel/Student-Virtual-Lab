@@ -41,6 +41,14 @@ To use the app, open it on your Android device and follow these steps:
 * Artificial Intelligence. ( Unity AI libraries - `Ai.Inworld.Studio.V1Alpha`, `Ai.Inworld.Voices` )
 * Virtual Reality
 
+## Future Scope
+
+* Medical Surgery.
+* Factory Simulation.
+* Virtual Space Learning ( Solar System ).
+* Experiencing the Universe through VR.
+* Histrological VR Museum.
+
 
 ## Installation
 

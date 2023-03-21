@@ -1,6 +1,5 @@
 <img src="https://user-images.githubusercontent.com/77532147/226459252-d017d896-23c3-4618-8908-924d0a23b654.png">
 
-
 ## Features
 
 - Learn about complex machine and manufacturing processes.
@@ -14,8 +13,7 @@
 
 
 ## Screenshots
-
-
+<img src="https://user-images.githubusercontent.com/77532147/226490600-28e25db2-3525-4196-b580-99167d543bd2.mp4">
 
 ## Usage
 
@@ -40,6 +38,11 @@ To use the app, open it on your Android device and follow these steps:
 * Artificial Intelligence. ( Unity AI libraries - `Ai.Inworld.Studio.V1Alpha`, `Ai.Inworld.Voices` )
 * Virtual Reality
 
+
+## Whole project
+Link - `https://bitbucket.org/it-day/students-virtue-lab12/src/project/`
+
+
 ## Installation
 
 * Clone the repository from Github:
@@ -53,7 +56,6 @@ To use the app, open it on your Android device and follow these steps:
 - Build and run the app using an Android emulator or a physical device.
 
 - Test the app thoroughly and fix any bugs or issues.
-
 
 ## Contribution
 

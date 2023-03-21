@@ -47,7 +47,7 @@ To use the app, open it on your Android device and follow these steps:
 * Clone the repository from Github:
 
 ```bash
-  git clone https://https://github.com/Wilson-Daniel/Student-Virtual-Lab
+  git clone https://bitbucket.org/it-day/students-virtue-lab12.git
 ```
 
 * Modify the code and resources as needed.

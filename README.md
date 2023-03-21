@@ -10,7 +10,7 @@ Link - `https://bitbucket.org/it-day/students-virtue-lab12/src/project/`
 - Suggestions for any doubt or questions asked.
 - Machine components and equipments overview.
 - Assembling machine components.
-- AI tracking and live suggetions.
+- AI tracking and live suggestions.
 - Tyre assembly.
 - Painting process.
 

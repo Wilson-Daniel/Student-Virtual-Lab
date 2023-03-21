@@ -1,3 +1,6 @@
+## Whole project
+Link - `https://bitbucket.org/it-day/students-virtue-lab12/src/project/`
+
 <img src="https://user-images.githubusercontent.com/77532147/226459252-d017d896-23c3-4618-8908-924d0a23b654.png">
 
 ## Features
@@ -37,10 +40,6 @@ To use the app, open it on your Android device and follow these steps:
 * Blender
 * Artificial Intelligence. ( Unity AI libraries - `Ai.Inworld.Studio.V1Alpha`, `Ai.Inworld.Voices` )
 * Virtual Reality
-
-
-## Whole project
-Link - `https://bitbucket.org/it-day/students-virtue-lab12/src/project/`
 
 
 ## Installation

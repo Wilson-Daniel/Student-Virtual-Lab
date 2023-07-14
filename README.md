@@ -1,4 +1,4 @@
-## Whole project
+## Project Main Link
 Link - `https://bitbucket.org/it-day/students-virtue-lab12/src/project/`
 
 <img src="https://user-images.githubusercontent.com/77532147/226459252-d017d896-23c3-4618-8908-924d0a23b654.png">
